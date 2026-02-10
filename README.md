@@ -33,5 +33,3 @@ I am currently architecting the transition from a chat-bot to a full-scale LMS w
 * 💻 **DevLucid:** [devlucid.com](https://devlucid.com)
 
 ---
-
-![Jakub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakubStolarski7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true)
