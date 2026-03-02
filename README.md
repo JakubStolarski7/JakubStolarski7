@@ -73,6 +73,5 @@ Today the platform includes:
 - 🌐 **Portfolio:** [jakubstolarski.com.pl](https://jakubstolarski.com.pl)
 - 💼 **LinkedIn:** [Jakub Stolarski](https://www.linkedin.com/in/jakubstolarskipl/)
 - 💻 **DevLucid:** [devlucid.com](https://devlucid.com)
-- 🐦 **X (Twitter):** [@DevLucidHQ](https://x.com/DevLucidhq)
 
 ---
