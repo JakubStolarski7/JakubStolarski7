@@ -15,7 +15,13 @@ I specialize in building high-performance SaaS applications, AI-powered tools, a
 - **Lucid AI:** Context-aware assistant that explains algorithms and walks through solutions step-by-step.
 - **AI Code Review:** Automated bug diagnosis, refactoring suggestions, and complexity analysis.
 
-**📑 [SeshTab](https://www.getseshtab.com)** *Intelligent browser extension for tab management.* An AI-powered tool designed to declutter your browser, organize active sessions, and boost productivity by giving you full control over your workspace.
+**📑 [SeshTab](https://www.getseshtab.com)** *Intelligent browser extension for tab management.* A productivity tool that saves, organizes, and syncs browser tabs across devices — with AI-powered tab clustering and a clean command palette.
+- **Session & Workspace Manager:** Save any window as a named workspace or multi-window session; restore with one click.
+- **Tab Snooze:** Dismiss a tab and schedule it to reopen at a set time via the browser Alarms API.
+- **AI Organize (Pro):** GPT-4o-mini clusters your open tabs into logical groups and proposes workspaces automatically.
+- **Cloud Sync (Pro):** Real-time sync across devices via Supabase; local-first with IndexedDB for offline-capable free tier.
+- **Command Palette:** Fuzzy-search-driven interface for all actions — save, snooze, find duplicates, switch profiles.
+- **Workspace Profiles (Pro):** Save and instantly restore entire workspace configurations; shareable via public links.
 
 ---
 
