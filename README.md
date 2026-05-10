@@ -1,53 +1,26 @@
 ### Hi there, I'm Jakub Stolarski 👋
 
-I'm a **Full Stack Developer** and the Founder of **[DevLucid](https://devlucid.com)**.  
-I build high‑performance SaaS applications, combining modern web frameworks with **real-world developer tooling** and **AI-first UX**.
+I'm a **Full Stack Engineer** and **Entrepreneur**. 
+I specialize in building high-performance SaaS applications, AI-powered tools, and custom web solutions. I love combining modern web frameworks with real-world utility and great UX.
 
 📍 **Portfolio:** [**jakubstolarski.com.pl**](https://jakubstolarski.com.pl)
 
 ---
 
-#### 🚀 Featured Project: DevLucid
+#### 🚀 Featured Projects
 
-**DevLucid** is an interactive coding platform for aspiring developers.  
-Think **LeetCode‑style problem arena + AI mentor + code review**, all in the browser.
+**🧠 [DevLucid](https://devlucid.com)** *Next-gen interactive AI coding platform for aspiring developers.* Think **LeetCode-style problem arena + AI mentor + code review**, entirely in the browser.
+- **Coding Arena:** 8 languages, sandboxed execution (Judge0), and strict performance limits.
+- **Gamification:** Daily quests, timezone-aware streaks, and milestone tracking.
+- **Lucid AI:** Context-aware assistant that explains algorithms and walks through solutions step-by-step.
+- **AI Code Review:** Automated bug diagnosis, refactoring suggestions, and complexity analysis.
 
-Today the platform includes:
+**📑 [SeshTab](https://www.getseshtab.com)** *Intelligent browser extension for tab management.* An AI-powered tool designed to declutter your browser, organize active sessions, and boost productivity by giving you full control over your workspace.
 
-- **Coding Arena (8 languages)**  
-  LeetCode‑like task arena with:
-  - 8 languages (Python, JavaScript, TypeScript, Java, C++, C, C#, Go)
-  - Blind‑75‑style algorithms, language‑specific exercises, and daily quest
-  - In‑browser editor + Judge0‑based sandboxed execution
-  - Strict performance limits and adversarial test cases (TLE for naive O(n²) etc.)
+---
 
-- **Daily Quest, Streaks & Freezes**  
-  Gamified practice:
-  - Daily problem with timezone‑aware countdown
-  - Streak widget, calendar view, and “freeze” mechanic to save a streak
-  - Milestone emails (7/30‑day streaks) and reminder cron jobs (drip campaigns, weekly report)
-
-- **Lucid AI (Mentor Chat)**  
-  Context‑aware AI assistant for:
-  - Explaining code and algorithms
-  - Walking through solutions step‑by‑step
-  - Working directly on tasks from the Arena
-
-- **AI Code Review**  
-  Paste code → get:
-  - Bug diagnosis, refactors, and complexity analysis
-  - Markdown + LaTeX rendering (math, complexity formulas)
-  - History of previous reviews
-
-- **Production‑grade Platform Features**
-  - Auth & profiles (Supabase)
-  - Subscription & billing (Stripe)
-  - Transactional / cron‑driven emails (Resend)
-  - Security & cost‑controls (rate limits, payload limits, paginated queries)
-  - Legal & privacy docs aligned with actual data flows (OpenAI, Judge0, Stripe, Supabase, Vercel, etc.)
-
-**Stack (core):**  
-`Next.js 16 (App Router, Server Components) · TypeScript · React · Tailwind CSS · Prisma · PostgreSQL (Supabase) · Judge0 CE · OpenAI · Resend · Stripe · Vercel`
+#### 💻 Custom Web Development
+Beyond my own SaaS products, I build high-converting, performant websites and bespoke web applications for clients. From landing pages to complex full-stack systems – I deliver end-to-end solutions tailored to specific business needs. 
 
 ---
 
@@ -72,6 +45,5 @@ Today the platform includes:
 
 - 🌐 **Portfolio:** [jakubstolarski.com.pl](https://jakubstolarski.com.pl)
 - 💼 **LinkedIn:** [Jakub Stolarski](https://www.linkedin.com/in/jakubstolarskipl/)
-- 💻 **DevLucid:** [devlucid.com](https://devlucid.com)
-
----
+- 🧠 **DevLucid:** [devlucid.com](https://devlucid.com)
+- 📑 **SeshTab:** [getseshtab.com](https://www.getseshtab.com)
